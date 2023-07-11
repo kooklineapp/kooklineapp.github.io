@@ -15,11 +15,11 @@ Contact: <kooklineapp [at] gmail.com>
 
 ## 🏄‍♂️ Surf Report & Predictions
 
-Introducing Kookline, your ultimate companion for tracking surf conditions and forecasts! Whether you're a seasoned pro or a beginner looking to catch your first wave, Kookline is here to provide you with all the essential information you need to maximize your time on the water.
+Introducing Kooks, your ultimate companion for tracking surf conditions and forecasts! Whether you're a seasoned pro or a beginner looking to catch your first wave, Kooks is here to provide you with all the essential information you need to maximize your time on the water.
 
-With Kookline, you'll have access to a comprehensive database of surf spots from around the world. From the sunny shores of California to the exotic breaks in Bali, we've got you covered. Our app provides detailed information on each spot, including wave height, swell direction, wind speed and wind direction. Stay informed about the conditions at your favorite spots and discover new ones wherever you go.
+With Kooks, you'll have access to a comprehensive database of surf spots from around the world. From the sunny shores of California to the exotic breaks in Bali, we've got you covered. Our app provides detailed information on each spot, including wave height, swell direction, wind speed and wind direction. Stay informed about the conditions at your favorite spots and discover new ones wherever you go.
 
-Stay one step ahead of the game with our powerful surf forecasting tools. Kookline utilizes cutting-edge technology and reliable data sources to deliver accurate and up-to-date surf forecasts. Plan your sessions in advance by checking the forecast for the upcoming days and get real-time updates on changing conditions. Never miss a great surf day again!
+Stay one step ahead of the game with our powerful surf forecasting tools. Kooks utilizes cutting-edge technology and reliable data sources to deliver accurate and up-to-date surf forecasts. Plan your sessions in advance by checking the forecast for the upcoming days and get real-time updates on changing conditions. Never miss a great surf day again!
 
 Key features:
 
@@ -29,7 +29,7 @@ Accurate surf forecasts: Get reliable surf forecasts based on advanced technolog
 
 Personalized experience: set your favorite spots and retrieve conditions and forecasts in a single tap.
 
-Download Kookline now and take your surfing to the next level. Whether you're a casual weekend warrior or a dedicated wave chaser, Kookline is the must-have app for every surfer. Get ready to ride the perfect wave!
+Download Kooks now and take your surfing to the next level. Whether you're a casual weekend warrior or a dedicated wave chaser, Kooks is the must-have app for every surfer. Get ready to ride the perfect wave!
 
 ## 📱 Screenshots
 
@@ -44,19 +44,19 @@ Your privacy is critically important to us. Your data is your own. We make no cl
 If you have questions about deleting or correcting your personal data please contact our support team.
 
 ### Gathering of Personally-Identifying Information
-Kookline does not gather personally identifying information.
+Kooks does not gather personally identifying information.
 
 ### Protection of Certain Personally-Identifying Information
-No Personally-Identifying Information is transmitted to external locations when using Kookline.
+No Personally-Identifying Information is transmitted to external locations when using Kooks.
 
 ### Cookies
-A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. The Kookline website identify and track visitors, their usage of Kookline website, and their website access preferences. The Kookline website visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Kookline's websites.
+A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. The Kooks website identify and track visitors, their usage of Kooks website, and their website access preferences. The Kooks website visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Kooks's websites.
 
 ### Business Transfers
-If Kookline, or substantially all of its assets, were acquired, or in the unlikely event that Kookline goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Kookline may continue to use your personal information as set forth in this policy.
+If Kooks, or substantially all of its assets, were acquired, or in the unlikely event that Kooks goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Kooks may continue to use your personal information as set forth in this policy.
 
 ### Privacy Policy Changes
-Although most changes are likely to be minor, Kookline may change its Privacy Policy from time to time, and in Kookline's sole discretion. Kookline encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+Although most changes are likely to be minor, Kooks may change its Privacy Policy from time to time, and in Kooks's sole discretion. Kooks encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
 ### Limited Warranties
 We do not warrant the completeness or accuracy of the information published on this website; nor do we commit to ensuring that the website remains available or that the material on the website is kept up to date.
